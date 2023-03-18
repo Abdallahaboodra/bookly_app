@@ -1,4 +1,4 @@
-import 'package:bookly_app/Features/home/presentation/views/widgets/custom_image_liste_view_item.dart';
+import 'package:bookly_app/Features/home/presentation/views/widgets/custom_book_image.dart';
 import 'package:bookly_app/constant.dart';
 import 'package:bookly_app/core/utils/assets.dart';
 import 'package:bookly_app/core/utils/styles.dart';
